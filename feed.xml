@@ -4,5 +4,12 @@
         <description>Hello, world! I am using an oldie but a goodie for this blog. 
 That's right, I'm using RSS!
 Have a great day!</description>
+	<pubDate>Sat, 04 12 2021 19:37:08 CST</pubDate>
+    </item>
+    <item>
+        <title>testing time fix</title>
+        <author>Samuel Lord</author>
+        <description>testing 123</description>
+        <pubDate>Sat, 04 12 2021 19:40:07 CST</pubDate>
     </item>
 </rss>

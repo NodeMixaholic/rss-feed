@@ -11,5 +11,16 @@ Have a great day!</description>
         <author>nodemixaholic@nodemixaholic.com</author>
         <description>testing 123</description>
         <pubDate>Sat, 04 12 2021 19:40:07 -0600</pubDate>
+    </item>    <item>
+        <title>How did I create a RSS feed so fast?</title>
+        <author>nodemixaholic@nodemixaholic.com</author>
+        <description>I created a BASH script, of coruse!
+
+Easy, intuitive, simple, FOSS.
+
+You can find it here:
+https://github.com/NodeMixaholic/rss-generator</description>
+        <pubDate>Sat, 04 Dec 2021 20:06:00 -0600</pubDate>
     </item></channel>     
+</rss>     
 </rss>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?> <rss version="2.0"> <channel> <title>NodeMixaholic's Blog</title> <link>https://nodemixaholic.com</link> <description>Blog of NodeMixaholic himself.</description> <language>en-us</language> </channel>     <item>
+        <title>Hello, world!</title>
+        <author>Samuel Lord</author>
+        <description>Hello, world! I am using an oldie but a goodie for this blog. 
+That's right, I'm using RSS!
+Have a great day!</description>
+    </item>
+</rss>
